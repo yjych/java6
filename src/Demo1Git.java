@@ -3,7 +3,7 @@
  */
 public class Demo1Git {
   public void go(){
-      System.out.println("你好");
+      System.out.println("你好aaaaaaaa");
   }
 
 }
